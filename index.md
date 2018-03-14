@@ -9,11 +9,13 @@ tags: index
 
 ## Mission Statement
 
+
 The Herbal Access Project is a group of medicinal plant growers who want to cultivate access to botanicals for grassroots community groups. We do this by partnering with local landholders and volunteers who desire to learn medicinal plant preparation and cultivation skills in the context of giving back to people and the land. All the medicine made is donated to folks serving their communities primarily through lenses of socioeconomic equality, anti-oppression work and first nations support.
 
 With all of our work we hope to increase the public’s knowledge of and access to herbal medicine, improve our communities’ wellbeing and limit the impact of harvesting from intact and wild ecosystems through centering ethical urbancrafting.
 
 ![trillium](/images/tril.jpg){:class="img-responsive"}
+
 
 
 ## Opportunities for the Landholder
@@ -28,9 +30,10 @@ There is a spectrum of involvement available to those offering up their plots fo
 * We expect our crew to be present on your plot once or twice per month. You’re invited to come participate, but it’s not expected.
 * Land beautification and connection to space! Often growing herbs means soil improvement and and flowers, attracting our beloved pollinators. Instead of simply seeing how we can help humans, we can also recognize that our actions impact the whole environment and benefit those other critters who are part of our world.
 
-**Don’t have land but have other beneficial donations, such as tools, medicinal seeds, starts, finances, or something wonderful we haven’t even dreamed of yet? Please [contact us](http://herbalaccessproject.github.io/contact.html) to see how we can put your donations/lendings to good use!**
+**Don’t have land but have other beneficial donations, such as tools, medicinal seeds, starts, finances, or something wonderful we haven’t even dreamed of yet? Please [contact us](http://herbalaccessproject.github.io/contact/) to see how we can put your donations/lendings to good use!**
 
-![spider](/images/spider.jpg){:class="img-responsive"}
+![barn](/images/barn.jpg){:class="img-responsive"}
+
 
 
 ## Opportunities for the Participant
@@ -47,6 +50,6 @@ We expect a minimum commitment of time dedicated to growing and harvesting herbs
 * Support to protection of native spaces by utilizing city spaces for medicine making instead of leaning on local natural environments which are threatened by overharvesting.
 * Getting your hands dirty! Gardening can be active work, which is good for our bodies even before we ingest herbs!
 
-**The Herbal Access Project wants you! Please [contact us](http://herbalaccessproject.github.io/contact.html) to see how we can put your donations/lendings to good use!**
+**The Herbal Access Project wants you! Please [contact us](http://herbalaccessproject.github.io/contact/) to see how we can put your donations/lendings to good use!**
 
-![barn](/images/barn.jpg){:class="img-responsive"}
+_![herbs](/images/herb.jpg){:class="img-responsive"}_
