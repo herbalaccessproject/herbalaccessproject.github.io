@@ -20,7 +20,7 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    true
@@ -51,7 +51,8 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+facebook_username: herbalaccessproject
+instagram_username: herbalaccessproject
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
