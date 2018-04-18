@@ -13,11 +13,7 @@ With all of our work we hope to increase the public’s knowledge of and access 
 
 Find out how you can get involved:
 
-
-<div class=pickbutt >
-  <a href="/participate" class="button ">I'm a Participant</a>
-  <a href="/host" class="button ">I'm a Landholder</a>
-</div>
-
-<br />
+<a href="/participate" class="button">I'm a Participant</a>
+<a href="/host" class="button">I'm a Landholder</a>
+  <br />
 <img class="im-responsive" alt="herbs" src="/images/herb.jpg">
