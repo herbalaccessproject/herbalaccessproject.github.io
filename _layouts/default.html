@@ -1,32 +1,32 @@
 <!DOCTYPE html>
-<html>
-{% include head.html %}
-<body class="site{% if site.animated %} animated fade-in-down{% endif %}">
-  {% if site.google_tag_manager %}
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  {% endif %}
-	{% if site.facebook_comments %}
-		<div id="fb-root"></div>
-		<script>(function(d, s, id) {
-		  var js, fjs = d.getElementsByTagName(s)[0];
-		  if (d.getElementById(id)) return;
-		  js = d.createElement(s); js.id = id;
-		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId={{ site.facebook_appid }}";
-		  fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));</script>
-	{% endif %}
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
-  <div class="site-wrap">
-    {% include header.html %}
+  {% include head.html %}
 
-    <div class="post p2 p-responsive wrap" role="main">
-      <div class="measure">
+  <body class="theme-base-b1 layout-reverse sidebar-overlay">
+
+    {% include sidebar.html %}
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+          <h1 class="masthead-title">
+            <a href="/" title="Home">{{ site.title }}</a>
+            <br / >
+            <small>{{site.tagline}}</small>
+           </h1>
+          </div>
+      </div>
+
+      <div class="container content">
+        <hr />
         {{ content }}
       </div>
     </div>
-  </div>
 
-  {% include footer.html %}
-</body>
+  </body>
 </html>
