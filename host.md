@@ -8,7 +8,7 @@ tags: host
 There is a spectrum of involvement available to those offering up their plots for the growing and harvesting of the community's herbal medicine! At a minimum, we will need help watering the plants, at a rate determined by the crew who will be tending the plants. But you can do more, if that brings you joy! Think about what you are able to contribute and what you’d like to get out the process.
 
 * The pleasure of devoting your extra garden space to the wellbeing of local communities
-* Our preference is for a minimum of ________2ft of space per garden so as to maximize the benefits of our traveling efforts
+* Our preference is for a minimum of 300ft<sup>2</sup> of space per garden so as to maximize the benefits of our traveling efforts
 * The option to learn about herbs, their growth processes, and their preparation
 * The knowledge that you’re contributing to the growing of medicine by watering plants between crew visits
 * To value your time and contribution we will strive to use soaker hoses and other easy-to-use systems
