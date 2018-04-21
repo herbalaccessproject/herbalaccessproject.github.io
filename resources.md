@@ -25,7 +25,8 @@ This books has great information on general gardening topics like seed starting,
 
 This two volume book rocks! So much great information about growing, medicinal uses, lore and so much more. More importantly she paints a picture of where these plants grew up, or their ecology. And by understanding how these plants evolved or what are these plant’s prefered ecosystem we can try and create a similar situation for the plant and let them grow in the conditions they are used to instead of micromanaging their existence.
 
-**Growing At-Risk Medicnal Herbs by Riccho Cech. Horizon Herbs. 2002**
+**Growing At-Risk Medicinal Herbs by Riccho Cech. Horizon Herbs. 2002**
+
 Using medicinal plants is not always puppy dogs and rainbows, many plants are on the verge of extinction do to overharvesting by humans. This book addresses this by giving details growing conditions for some of these plants.
 
 

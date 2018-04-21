@@ -6,7 +6,19 @@
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
     <p>{{ site.description }}</p>
-  </div>
+    <p style="text-align: center">
+          {% if site.facebook_username %}
+        <a href="https://www.facebook.com/{{ site.facebook_username }}">
+          <i class="fab fa-facebook fa-lg"></i>
+        </a>
+        {% endif %}
+        {% if site.insta_username %}
+  <a href="https://www.instagram.com/{{ site.instagram_username }}">
+      <i class="fab fa-instagram fa-lg"></i>
+     </a>
+        {% endif %}
+    </p>
+</div>
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="/">Home</a>
@@ -30,5 +42,6 @@
     <p>
       &copy; {{ site.time | date: '%Y' }}. All rights reserved.
     </p>
+
   </div>
 </div>

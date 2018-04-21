@@ -17,3 +17,5 @@ There is a spectrum of involvement available to those offering up their plots fo
 * Land beautification and connection to space! Often growing herbs means soil improvement and and flowers, attracting our beloved pollinators. Instead of simply seeing how we can help humans, we can also recognize that our actions impact the whole environment and benefit those other critters who are part of our world.
 
 **Don’t have land but have other beneficial donations, such as tools, medicinal seeds, starts, finances, or something wonderful we haven’t even dreamed of yet? Please [contact us](/contact/) to see how we can put your donations/lendings to good use!**
+
+<a href="/contact" class="button button-ctr">Get Involved Today</a>

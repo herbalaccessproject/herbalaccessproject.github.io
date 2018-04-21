@@ -18,3 +18,5 @@ We expect a minimum commitment of time dedicated to growing and harvesting herbs
 * Getting your hands dirty! Gardening can be active work, which is good for our bodies even before we ingest herbs!
 
 **The Herbal Access Project wants you! Please [contact us](/contact/) to see how we can put your donations/lendings to good use!**
+
+<a href="/contact" class="button button-ctr">Get Involved Today</a>
